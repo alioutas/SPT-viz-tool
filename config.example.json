@@ -1,0 +1,5 @@
+{
+  "tif": "data/movie.tif",
+  "tracks": "data/tracks.csv",
+  "saspt": "data/saspt_distribution.csv"
+}
